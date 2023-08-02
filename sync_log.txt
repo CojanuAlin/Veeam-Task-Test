@@ -1,0 +1,12 @@
+Removed file: C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\nature-gf47769522_1280.jpg to C:\Users\nick_\Documents\Veeam-Task-Test\replica\nature-gf47769522_1280.jpg
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\nature-gf47769522_1280.jpg to C:\Users\nick_\Documents\Veeam-Task-Test\replica\nature-gf47769522_1280.jpg
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\nature-gf47769522_1280.jpg to C:\Users\nick_\Documents\Veeam-Task-Test\replica\nature-gf47769522_1280.jpg
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Removed file: C:\Users\nick_\Documents\Veeam-Task-Test\replica\nature-gf47769522_1280.jpg
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
+Copied file: C:\Users\nick_\Documents\Veeam-Task-Test\source\snow-leopard-g1dc2446f5_1280.png to C:\Users\nick_\Documents\Veeam-Task-Test\replica\snow-leopard-g1dc2446f5_1280.png
